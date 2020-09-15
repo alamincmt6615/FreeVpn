@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1012992374802",
+    "firebase_url": "https://evpn-main-1d22c.firebaseio.com",
+    "project_id": "evpn-main-1d22c",
+    "storage_bucket": "evpn-main-1d22c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012992374802:android:118037fd9398c4d34d40cb",
+        "android_client_info": {
+          "package_name": "com.abc.evpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012992374802-2oqq4enh01dpmoegki9jcm2gt37h1027.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abc.evpn",
+            "certificate_hash": "c511167a5021d2c6527eb075dbedc83b52d4e261"
+          }
+        },
+        {
+          "client_id": "1012992374802-tckmrcs41vts3r9lqn0g3m6vrueeubfs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmQ3olInm6AQSwNBQqHCoNVxU47GpYsXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012992374802-tckmrcs41vts3r9lqn0g3m6vrueeubfs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
